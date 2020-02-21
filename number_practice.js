@@ -1,18 +1,18 @@
 // Javascript Symbolizer Badge 
 
-console.log('Danielle's Age');
+console.log('Danielle Age');
 
 let x = 'Age';
 console.log(x.length);
 
-console.log('Danielle's Age'.length);
+console.log('Danielle Age'.length);
 
 let number = 21;
 console.log(Math.floor(number));
 
 let ageNumber = 21;
 
-// Addicition 
+// Addition
 10 + 11
 
 // Subtraction 
