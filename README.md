@@ -1,0 +1,1 @@
+# symbolizer_badge.js
